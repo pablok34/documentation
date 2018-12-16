@@ -18,6 +18,7 @@
 	* Conformity "...much complexity comes from conformation to other interfaces"
 	* Changeability
 	* Invisibility "Software is invisible and unvisualizable."
+
 * Accidental Difficulties ("difficulties that today attend its production but are not inherent")
 
 ## Architecture styles
@@ -27,17 +28,30 @@
 	* Remote procedure call architecture
 	* Object-oriented architectures
 	* Layered architectures
+
 * Data-flow
 	* Batch Sequential
 	* Pipe and Filter
 	* Process Control
+
 * Data-centered
 	* Blackboard
 
 		![Blackboard](resources/img/Architecture_styles_Data-centered_Blackboard.png)
 	* Repository
+
+		![Repository](resources/img/Architecture_styles_Data-centered_Repository.png)
 	* Expert system rule-based
+
+		![Expert system](resources/img/Architecture_styles_Data-centered_Expert_system.png)
+
 * Independent components
+	* Implicit invocation
+
+		![Implicit](resources/img/Architecture_styles_Independent_components_implicit.png)
+	* Explicit invocation
+
+		![Explicit](resources/img/Architecture_styles_Independent_components_explicit.png)
 
 
 ## Architecture patterns categories
