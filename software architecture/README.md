@@ -23,15 +23,28 @@
 ## Architecture styles
 
 * Call and return
-	* Main program or subprogram architecture
+	* Main program and subroutine architecture
+
+		![Main program and subroutine](resources/img/Architecture_styles_Main_program_subroutine.png)
 	* Remote procedure call architecture
+
+		![Remote procedure call](resources/img/Architecture_styles_Remote_procedure_call.png)
 	* Object-oriented architectures
+
+		![Object-oriented](resources/img/Architecture_styles_Object_oriented.png)
 	* Layered architectures
+		
+		![Layered](resources/img/Architecture_styles_layers.png)
 
 * Data-flow
 	* Batch Sequential
+
+		![Sequential](resources/img/Architecture_styles_Data-flow_Batch_Sequential.png)
 	* Pipe and Filter
+
+		![Pipe and Filter](resources/img/Architecture_styles_Data-flow_Pipe_Filter.png)
 	* Process Control
+		The data is neither batched sequential nor pipelined stream. The flow of data comes from a set of variables, which controls the execution of process. It decomposes the entire system into subsystems or modules and connects them.
 
 * Data-centered
 	* Blackboard
