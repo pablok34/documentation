@@ -6,9 +6,8 @@
 
 * No silver bullet (Paper by Frederick P. Brooks Jr, 1986) ([link](http://www.cs.nott.ac.uk/~pszcah/G51ISS/Documents/NoSilverBullet.html))
 * Software Architecture: Foundations, Theory and Practice (Taylor, 2009)
-* Software Architecture in Practice (Bass, Clements & Kazman, 2003)
-* Patterns of Enterprise Application Architecture (Fowler, 2002)
 * Software Architecture for Developers (Simon Brown, 2012)
+* Patterns of Enterprise Application Architecture (Fowler, 2002)
 
 
 ## No Silver Bullet: Essence and Accidents of Software Engineering
