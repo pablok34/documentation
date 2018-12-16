@@ -33,6 +33,7 @@
 	* Process Control
 * Data-centered
 	* Blackboard
+
 		![Blackboard](resources/img/Architecture_styles_Data-centered_Blackboard.png)
 	* Repository
 	* Expert system rule-based
