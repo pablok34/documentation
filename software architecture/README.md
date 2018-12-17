@@ -44,6 +44,7 @@
 
 		![Pipe and Filter](resources/img/Architecture_styles_Data-flow_Pipe_Filter.png)
 	* Process Control
+
 		The data is neither batched sequential nor pipelined stream. The flow of data comes from a set of variables, which controls the execution of process. It decomposes the entire system into subsystems or modules and connects them.
 
 * Data-centered
@@ -86,12 +87,39 @@
 ## Architecture patterns
 
 * MVC
+
+	![MVC](resources/img/MVC.png)
+
 * Layered Pattern
+
+	![Layered](resources/img/Architecture_styles_layers.png)
+
 * Microkernel - plug-in
+
+	![Microkernel](resources/img/Microkernel_plug-in.png)
+
 * CQRS
+
+	![CQRS](resources/img/CQRS.png)
+
 * Event-driven
+
+	![Event-driven](resources/img/Architecture_styles_Independent_components_implicit.png)
+
 * Microservices
+
+	![Microservices](resources/img/Microservices.png)
+
 * Domain-driven
+
+	![Domain-driven](resources/img/Domain-driven.png)
+
 * Hexagonal
+
+	![Hexagonal](resources/img/Hexagonal.png)
+
 * Shared-Nothing
+
+	![Shared-Nothing](resources/img/Shared-Nothing.png)
+
 * Combined
