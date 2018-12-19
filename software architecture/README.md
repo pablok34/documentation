@@ -123,3 +123,56 @@
 	![Shared-Nothing](resources/img/Shared-Nothing.png)
 
 * Combined
+
+
+## Software quality attributes
+
+More info about this on [so25000](http://iso25000.com/index.php/en/iso-25000-standards/iso-25010)
+
+* Functional Suitability
+	* Functional completeness
+	* Functional correctness
+	* Functional Appropriateness
+
+:lock: Security
+	* Confidentiality (the system authorizes each user to see what corresponds)
+	* Integrity (protect data from being accessed by not allowed internal users or external users)
+	* Fact verification (relate states to actions)
+	* Trace of responsibility (logs)
+	* Authenticity (identify the user)
+
+* Performance
+	* Response time
+	* Resource usage (CPU, RAM, Disk)
+	* Capacity (maximum number of simultaneous users for example or requests)
+
+* Compatibility
+	* Interoperability (how easy it is to communicate/integrate with this system and how well documented is that communication) 
+	* Coexistence (can be in the same server with other systems?)
+
+* Usability UX/UI
+	* Recognition of suitability (is suitable for the target niche?)
+	* Learning curve
+	* Operability (how many steps you need to do to achieve a goal)
+	* Error protection (validation of data, giving feedback to the user on data with errors)
+	* Interface aesthetics
+	* Accessibility (Adhesion to standards, our system can be used by people with disabilities)
+
+* Reliability
+	* Maturity (how much does the system fail under normal use? , average time between failures)
+	* Availability
+	* Fault tolerance (the system can continue running even if it is faulty)
+	* Recoverability
+
+* Maintainability
+	* Modularity
+	* Reusability
+	* Analysability
+	* Modificability
+	* Testability (Unit tests, Integration tests and Static analysis of code)
+
+* Portability
+	* Adaptability
+	* Installability
+	* Replaceability
+
