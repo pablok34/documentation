@@ -134,7 +134,7 @@ More info about this on [so25000](http://iso25000.com/index.php/en/iso-25000-sta
 	* Functional correctness
 	* Functional Appropriateness
 
-:lock: Security
+* Security
 	* Confidentiality (the system authorizes each user to see what corresponds)
 	* Integrity (protect data from being accessed by not allowed internal users or external users)
 	* Fact verification (relate states to actions)
